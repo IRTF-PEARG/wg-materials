@@ -1,0 +1,100 @@
+Administrivia
+===============
+ 
+Charter:
+*Mic-line*
+Q: how do you define privacy? Is it about protocols? Maybe look at the business model of data monetization.
+A: yes, the privacy of protocols but we will also look at the application layer.
+NE: Tim Cook gave a great speach at the EU on monetization of data
+ 
+Q: I thought it was notable that privacy beyond just confidentiality was highlighted, but no particular research items or topics seemed to be suggested.
+ 
+Presentations:
+==============
+
+Presentation 1: 
+-----------------
+Bennett Cyphers (staff technologist) from EFF on Privacy Badgers
+-       EFF is member funded non-profit
+-       Privacy, free _expression_ and innovation
+ 
+Context of privacy badgers: a story of how sometimes protocols are not enough.
+ 
+2009 – 2012: DNT and the dream of a universal opt-out. Let’s do this.  Industry was interested too, in order to pre-empt (more) regulation, amongst other reasons.
+ 
+2012 – 2018. Turn around on DNT in late 2012 because things were breaking down. EFF saw need for other way to allow people to opt-out of tracking. Privacy badger is born.
+
+Privacy Badger:
+- Both sticks and carrots (stop non-consensual tracking, spread awareness, promote DNT compliance, publish trackers who don’t DNT by blocking them)
+- But faced constraints as small non-profit.
+ 
+It turns DNT on in your browser.
+ 
+Next steps: Badger Sett
+-  Pre-train privacy badger on popular sites
+-  Use privacy badger to survey the web
+-  Test out new heuristics and measure the effectiveness
+- Privacy Badger mobile is needed bc of the importance of mobile browsing and apps.
+ 
+*Mic open*
+-    Privacy badger as part of the W3C DNT, why not?
+-    Privacy sett does more than you mentioned in your talk, it provides extra protection ag
+-   Interaction with other extensions sometimes is a problem
+- No telemetry data back to EFF, so your model of doing your own surveying of the web is great.
+-  How much of cat and mouse game is it? A: it’s a pretty small extension, add-blockers operate on such a scale that they consider it to be much work to avoid privacy badger.
+- Do you also provide guidance for privacy-preserving website? A: We refer to the DNT policy that is available for people who are interested in guidance.
+- How does it interact with add-blockers? A: we don’t block adds perse, because they also track. You can also auto-adjust your settings.
+ 
+ 
+Presentation 2:
+---------------
+Sofia Celi & Jurren van Bergen (Centro de autonomia digital) No evidence of communication: Off-the-record messaging protocol in version 4 (OTRv4) 
+-       Comes out of an academic paper
+-       Provides encryption w forward secrecy; authentication, deniability.
+-       Different version
+-       Other protocols drew inspiration for it (like signal)
+ 
+Why version 4?
+-       Deniability is crucial
+-       Has a specification
+-       Can find more info on the git repo
+ 
+*Mic open*
+-  Work in IETF on MLS, how does it relate? A: MLS does not provide deniability.
+-  MLS wants to improve crypto, so it would seem that you have the same security guarantees, maybe you want to have the same kind of scrutiny applied to your stuff. We are an inspiration protocol.
+- Can you explain what is message and participation deniability? A: it means that no one can prove you participated and that nobody can prove that you sent that message.
+- MLS is agnostic on deniability currently. We would love to have your participation in the MLS working group.
+ 
+ 
+Presentation 3: 
+---------------
+David Oliver (Guardian Project) pluggable transport (obfuscates the address and network flows, to prevent DPI.) Surveillance is bad. Privacy is core to enabling human rights. Guardian Project focuses on mobile operating systems.
+ 
+DPI:
+-       IP was to route, but routing data got weaponized.
+-       DPI of traffic analysis, you can see the content of every packet in your traffic
+-       Encryption also adheres to recognizable patterns.
+You can defend through obfuscation:
+-       Service address
+-       Content of the packet
+ 
+What is suspicious develops fast and deployment of work should hence also be faster = pluggable transports.
+ 
+*Mic open*
+- Tensions between scale and half-life of mechanisms, the more successful you are the quicker you will have to turn over. A: yes, we are on the cutting edge and we expose a lot of problems so others can get involved.
+- Could you make all of the normal things the same? A: good point, lets talk offline.
+-  Transport services working group might be relevant.  
+- Have you thought of use-cases where both end-points are compromised? How do you detect anthrax and bombs (in the mail analogy). What about security concerns and not just privacy? A: primarily, with the earlier version the net-effect – we are not exposing anything that previously got exposed. Let’s take it offline.
+- What if you want to inspect traffic for child pornography? A: I can’t speak for the implementers. There is a tension.
+
+Presenter 4:
+------------
+Gunes Acar paper on Battery Status not included: assessing privacy in web standards New web features lead to privacy concerns.
+W3C has a self-review questionnaire. Came out of the privacy interest group (PING).
+ 
+Battery status API introduced in 2011. New research shows multiple privacy vulnerabilities.
+ 
+*Mic open*
+- Recommendations on measurement are relevant. Participated in it 8 years ago. I think this should not be standardized. Because there is no way of having the info in the API without leaking. But drive in the W3C was very strong. This is an important part of history on device API. Our threat model understanding is better now but it remains a back-and-forth.
+- PING group is very happy with this research. Security and privacy questionnaire in W3C is currently being updated. We need people to get involved in the work. We should reach out early.
+-Implicit assumption in this work that API enable this kind of fingerprinting are bad, but that’s not the consensus of the browser vendors. It is not practical to prevent it in many cases.  

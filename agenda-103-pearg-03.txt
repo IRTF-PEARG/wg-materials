@@ -1,0 +1,35 @@
+Agenda - Privacy Enhancements and Assessments Proposed Research Group
+
+===
+
+Meeting: IETF 103, Bangkok
+Datetime: Nov 7 2018, Wed Afternoon session II, 15:40 - 17:10 pm Bangkok time (ICT GMT+7)
+Place: Meeting 1 Breakout Room (7th floor)
+MeetEcho: https://www.meetecho.com/ietf103/pearg/ 
+Jabber: xmpp:pearg@jabber.ietf.org?join
+Minutes: https://etherpad.tools.ietf.org/p/notes-ietf-103-pearg
+
+===
+
+- Administrivia (5 min)
+    - Jabber scribe, note takers
+    - Agenda Bashing
+    - Notewell
+    - Introduction to PEARG
+
+- Charter discussion (10 min)
+https://datatracker.ietf.org/doc/charter-irtf-pearg/
+
+- Presentation: "Usable Privacy in Privacy Badger", Bennett Cyphers [Electronic Frontier Foundation] (20 min)  
+
+- Presentation: "No evidence of communication: OTRv4 (Off-the-Record)v4", Sofia Celi + Jurre van Bergen [Centro de Autonomía Digital] (15 min)
+https://github.com/otrv4/otrv4
+
+- Presentation: "Pluggable Transports: Practical Methods for Combating Deep Packet Inspection", David Oliver [Guardian Project] (15 min)  
+https://www.torproject.org/docs/pluggable-transports.html.en
+https://www.pluggabletransports.info/
+
+- Presentation: "Battery Status Not Included: Assessing Privacy in Web Standards", Gunes Acar [Princeton University] (15 min)  
+paper: http://randomwalker.info/publications/battery-status-case-study.pdf
+
+- AOB
