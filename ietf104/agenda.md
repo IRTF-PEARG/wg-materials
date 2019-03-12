@@ -17,7 +17,7 @@
 ### Administrivia (5 minutes)
 
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
-* 3 min - Agenda bashing
+* 3 min - Agenda revision
 
 ### Talks
 
