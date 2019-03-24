@@ -22,8 +22,8 @@
 ### Talks
 
 * Guidelines for Performing Safe Measurement on the Internet, by Iain R. Learmonth (Tor Project)
-* Differential Privacy, by Amelia Andersdotter (ARTICLE19), Christoffer Långström (Uppsala University)
-* Privacy Pass, by Nick Sullivan (Cloudflare)
 * Log Data Privacy: Techniques for Data Privacy in Application Logs, by Ryan Guest (Salesforce)
+* Privacy Pass, by Nick Sullivan (Cloudflare)
+* Differential Privacy, by Amelia Andersdotter (ARTICLE19), Christoffer Långström (Uppsala University)
 * reclaimID: Self-sovereign, decentralized identity management using secure name systems, by Martin Schanzenbach (GNUnet Project)
 
