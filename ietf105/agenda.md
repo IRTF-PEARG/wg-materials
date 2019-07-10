@@ -18,15 +18,15 @@
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
 * 3 min - Agenda bashing
 
-### Research Presentations (60 minutes)
+### Research Presentations (80 minutes)
 
 - Privacy Anti-Patterns in Standards, Pete Snyder, 20 minutes
 - Encrypted DNS traffic analysis, Sandra Deepthy, 20 minutes
 - Address-based website fingerprinting, Christopher Wood, 20 minutes
 - DNS Bloom, Roland van Rijswijk-Deij, 20 minutes
 
-### I-D Presentations (45 minutes)
+### I-D Presentations (30 minutes)
 
-- Security and Privacy Implications of Numeric Identifiers Employed in Network Protocols - [History](https://datatracker.ietf.org/doc/draft-gont-numeric-ids-history/) and [Generation](https://datatracker.ietf.org/doc/draft-gont-numeric-ids-generation/), Fernando Gont (Remote), 15 minutes
-- [Enabling Network Traffic Obfuscation - Pluggable Transports](https://datatracker.ietf.org/doc/draft-oliver-pluggable-transports/), David Oliver, 15 mins
-- [A Survey of Worldwide Censorship Techniques](https://datatracker.ietf.org/doc/draft-hall-censorship-tech/), Joe Hall, 15 minutes
+- Security and Privacy Implications of Numeric Identifiers Employed in Network Protocols - [History](https://datatracker.ietf.org/doc/draft-gont-numeric-ids-history/) and [Generation](https://datatracker.ietf.org/doc/draft-gont-numeric-ids-generation/), Fernando Gont (Remote), 10 minutes
+- [Enabling Network Traffic Obfuscation - Pluggable Transports](https://datatracker.ietf.org/doc/draft-oliver-pluggable-transports/), David Oliver, 10 mins
+- [A Survey of Worldwide Censorship Techniques](https://datatracker.ietf.org/doc/draft-hall-censorship-tech/), Joe Hall, 10 minutes
