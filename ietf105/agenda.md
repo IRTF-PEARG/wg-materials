@@ -16,14 +16,14 @@
 ### Administrivia (5 minutes)
 
 * 2 min - Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html)
-* 3 min - Agenda bashing
+* 3 min - Agenda revision
 
 ### Research Presentations (80 minutes)
 
 - Privacy Anti-Patterns in Standards, Pete Snyder, 20 minutes
 - Encrypted DNS traffic analysis, Sandra Deepthy, 20 minutes
 - Address-based website fingerprinting, Christopher Wood, 20 minutes
-- DNS Bloom, Roland van Rijswijk-Deij, 20 minutes
+- Privacy-Conscious Threat Intelligence Using DNSBLOOM, Roland van Rijswijk-Deij, 20 minutes
 
 ### I-D Presentations (30 minutes)
 
