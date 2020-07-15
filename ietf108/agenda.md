@@ -8,7 +8,7 @@
 - [Meetecho](http://www.meetecho.com/ietf108/pearg/)
 - [Minutes](https://codimd.ietf.org/notes-ietf-108-pearg)
 
-## Administrivia (10 minutes)
+## Administrivia (5 minutes)
 
 - 2 min - Blue sheets / scribe selection / NOTE WELL
 - 3 min - Agenda revision
