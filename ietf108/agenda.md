@@ -23,6 +23,5 @@
 ## RG draft updates
 
 * Draft censorship - Joe Hall
-* Website fingerprinting update - Chris Wood
 * Pitfol - Sandeep Rao
 * Draft measurement - Gurshabad Grover
