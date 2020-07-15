@@ -8,19 +8,19 @@
 - [Meetecho](http://www.meetecho.com/ietf108/pearg/)
 - [Minutes](https://codimd.ietf.org/notes-ietf-108-pearg)
 
-## Administrivia (5 minutes)
+## Administrivia (5 mins)
 
-- 2 min - Blue sheets / scribe selection / NOTE WELL
-- 3 min - Agenda revision
+- Blue sheets / scribe selection / NOTE WELL
+- Agenda revision
 
-## New Work / Presentations
+## New Work / Presentations (60 mins)
 
 * [Testing Apps for COVID-19 Tracing (TACT)](https://down.dsg.cs.tcd.ie/tact/) - Stephen Farrell 
 * Trust Token architecture and the private metadata bit (title TBD) - Steven Valdez
 * Deanonymizing Internet Traffic with Website Fingerprinting - Nate Matthews
 * Randomized Response Mechanisms in RTT Measurements for QUIC  - Amelia Andersdotter
 
-## RG draft updates
+## RG draft updates (30 mins)
 
 * Draft censorship - Joe Hall
 * Pitfol - Sandeep Rao
