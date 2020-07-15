@@ -1,6 +1,7 @@
 # Privacy Enhancements and Assessments Research Group Agenda - IETF 108
 
-## Monday, July 27 2020, 11 - 12:40 (UTC) Monday Session 1
+## Time and Date
+- **Monday, July 27 2020, 11:00 - 12:40 (UTC)** Monday Session 1
 - [Time Zone Conversion](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200727T11&p1=1440&ah=1&am=40)
 
 ## Links
