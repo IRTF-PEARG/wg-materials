@@ -1,6 +1,6 @@
 # IETF QUIC Working Group Interim Meeting
 
-* [Meeting arrangements](arrangements.md)
+* [Meeting arrangements](#)
 
 ## Agenda
 
