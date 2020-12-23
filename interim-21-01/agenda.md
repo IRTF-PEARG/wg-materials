@@ -1,24 +1,31 @@
-# IETF QUIC Working Group Interim Meeting
+# IETF PEARG Research Group Interim Meeting
+
+### Meeting Topic: IP Address Privacy
 
 * [Meeting arrangements](#)
 
 ## Agenda
 
-### Administrivia (10 min)
+### Administrivia (5 min)
   * Scribes, Blue Sheets, Note Well
   * Purpose of the meeting
     * Discuss uses, privacy implications, and privacy mitigations for IP addresses
 
-### Presentations
+### Presentations (105 mins)
 
-* IP address use cases
-    * Anti-fraud and abuse: Dimitris, Philipp, David
-    * DoS: Damian
+* IP address use cases 
+    * Anti-fraud and abuse: Dimitris Theodorakis (WhiteOps), Philipp Pfeiffenberger (You Tube) , David Turner (Google) (20 mins)
+    * DoS: Damian Menscher (Google) (10 mins)
 * Privacy implications: 
-    * Overview of privacy implications: Fernando
-    * Server-side address privacy: Christian (maybe)
+    * Overview of privacy implications: Fernando Gont (SI6 Networks) (15 mins)
+    * Server-side address privacy: Christian Huitema - TBC (Private Octopus) (15 mins)
 * Techniques for hiding IP addresses
-    * Anonymity networks and tokens: George Kadianakis
-    * Using Multicast DNS to protect privacy when exposing ICE candidates (https://datatracker.ietf.org/doc/draft-ietf-mmusic-mdns-ice-candidates/), Justin
-    * Willful IP Blindness: Brad
+    * Anonymity networks and tokens: George Kadianakis (Tor) (15 mins)
+    * Using Multicast DNS to protect privacy when exposing ICE candidates (https://datatracker.ietf.org/doc/draft-ietf-mmusic-mdns-ice-candidates/), Justin Uberti (Google) (15 mins)
+    * Willful IP Blindness: Brad Lassey (Google) (15 mins)
+    
+### Discussion and follow up (10 mins)
+
+* Open discussion
+* Potential RG work from this?
 
