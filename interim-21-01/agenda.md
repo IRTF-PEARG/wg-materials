@@ -16,7 +16,7 @@ Tuesday, January 19, 2021 at 20:00:00 UTC
 ### Presentations (105 mins)
 
 * IP address use cases 
-    * Anti-fraud and abuse: Dimitris Theodorakis (WhiteOps), Philipp Pfeiffenberger (You Tube) , David Turner (Google) (20 mins)
+    * Anti-fraud and abuse: Dimitris Theodorakis (WhiteOps), Philipp Pfeiffenberger (YouTube), David Turner (Google) (20 mins)
     * DoS: Damian Menscher (Google) (10 mins)
 * Privacy implications: 
     * Overview of privacy implications: Fernando Gont (SI6 Networks) (15 mins)
