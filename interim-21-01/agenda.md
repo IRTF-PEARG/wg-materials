@@ -4,7 +4,7 @@ Tuesday, January 19, 2021 at 20:00:00 UTC
 
 ### Meeting Topic: IP Address Privacy
 
-* [Meeting arrangements](#)
+* [Meeting arrangements](participation.md)
 
 ## Agenda
 
