@@ -18,7 +18,7 @@ Tuesday, January 19, 2021 at 20:00:00 UTC
 * IP address use cases 
     * Anti-fraud and abuse: Dimitris Theodorakis (WhiteOps), Philipp Pfeiffenberger (YouTube), David Turner (Google) (20 mins)
     * DoS: Damian Menscher (Google) (10 mins)
-* Privacy implications: 
+* Privacy implications of IP Addresses: 
     * Overview of privacy implications: Fernando Gont (SI6 Networks) (15 mins)
     * Server-side address privacy: Christian Huitema - TBC (Private Octopus) (15 mins)
 * Techniques for hiding IP addresses
