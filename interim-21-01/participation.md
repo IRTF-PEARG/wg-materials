@@ -17,5 +17,8 @@ Join by phone
 - Access code: 178 871 1761
 
 ## Chat
-- We'll be using IETF Jabber. The jabber room is pearg@jabber.ietf.org. [Easy link if you already have a Jabber client installed](xmpp:pearg@jabber.ietf.org?join).
+- We'll be using IETF Jabber. The jabber room is pearg@jabber.ietf.org. 
 - Need help getting set up? https://www.ietf.org/how/meetings/groupchat has a nice overview along with helpful suggestions for clients.
+
+## Notes
+- We'll be using codiMD. Link: https://codimd.ietf.org/pearg-interim-jan-2021
