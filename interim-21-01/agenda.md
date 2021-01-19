@@ -17,7 +17,7 @@ Tuesday, January 19, 2021 at 20:00:00 UTC
 
 * IP address use cases 
     * [Anti-fraud and abuse](https://github.com/IRTF-PEARG/wg-materials/blob/master/interim-21-01/Anti-abuse_applications_of_IP.pdf): Dimitris Theodorakis (WhiteOps), Philipp Pfeiffenberger (YouTube), David Turner (Google) (20 mins)
-    * DoS: Damian Menscher (Google) (10 mins)
+    * [DDoS](https://github.com/IRTF-PEARG/wg-materials/blob/master/interim-21-01/ddos_theory_and_practice.pdf): Damian Menscher (Google) (10 mins)
 * Privacy implications of IP Addresses: 
     * [Overview of privacy implications](https://github.com/IRTF-PEARG/wg-materials/blob/master/interim-21-01/pearg-jan-2021-fgont-ip-addresses-final.pdf): Fernando Gont (SI6 Networks) (15 mins)
     * [Server-side address privacy](https://github.com/IRTF-PEARG/wg-materials/blob/master/interim-21-01/shallow-anonymity-pools.pdf): Christian Huitema - TBC (Private Octopus) (15 mins)
