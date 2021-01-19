@@ -9,7 +9,7 @@ Tuesday, January 19, 2021 at 20:00:00 UTC
 ## Agenda
 
 ### Administrivia (5 min)
-  * Scribes, Blue Sheets, Note Well
+  * Scribes, Blue Sheets, [Note Well](https://www.ietf.org/about/note-well/)
   * Purpose of the meeting
     * Discuss uses, privacy implications, and privacy mitigations for IP addresses
 
