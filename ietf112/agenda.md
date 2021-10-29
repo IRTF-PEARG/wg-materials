@@ -19,10 +19,10 @@
 
 ## Presentations
 
-* Antoine Fressancourt "State of the art on privacy-preserving techniques used at the network layer" (20 mins)
-* Jari Arko https://datatracker.ietf.org/doc/html/draft-arkko-dns-confidential (20 mins)
+* "State of the art on privacy-preserving techniques used at the network layer" - Antoine Fressancourt  (20 mins)
 
 ## Drafts
 
-* IP address privacy draft update (TBC for 15mins)
-* Gap Analysis in Internet Addressing - Luigi (5 mins) *if time permits*
+* [Privacy Improvements for DNS Resolution with Confidential Computing](https://datatracker.ietf.org/doc/html/draft-arkko-dns-confidential) - Jari Arko (20 mins)
+* [WIP Draft update - IP Address Privacy update](https://github.com/ShivanKaul/draft-ip-address-privacy) - Matthew Finkel (15mins)
+* [Gap Analysis in Internet Addressing](https://datatracker.ietf.org/doc/draft-jia-intarea-internet-addressing-gap-analysis/) - Luigi Iannone (5 mins) *if time permits*
