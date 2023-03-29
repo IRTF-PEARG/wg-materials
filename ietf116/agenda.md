@@ -20,8 +20,8 @@
 ## Draft updates (5 mins)
 * RG draft statuses
 
-## Presentations  (90 mins)
-* Interoperable Private Attribution (Martin Thomson) - 20 mins
+## Presentations  (100 mins)
+* Interoperable Private Attribution (Martin Thomson) - 30 mins
 * Secure Partitioning Protocols (Phillipp Schoppmann) - 20 mins
 * DP3T: Deploying decentralized, privacy-preserving proximity tracing (Wouter Lueks) - 25 mins
 * LogPicker: Strengthening Certificate Transparency Against Covert Adversaries (Alexandra Dirksen) - 25 mins
